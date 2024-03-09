@@ -4,6 +4,29 @@
 ---
 ### :bulb: ABOUT ME
 Experienced professional with a genuine passion for software/web development. I am a highly skilled and proactive developer, constantly striving for self-improvement. With a proven track record of delivering quality results, I am well-equipped to tackle diverse tasks and find innovative solutions. I am excited to leverage my expertise and continue exploring new horizons in the field of web development and Computer Science.
+### :computer: TECH STACK
+<div>
+  <img src="./icons/html.svg" title="html" alt="html" width="40" height="40"/>&nbsp
+  <img src="./icons/css.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="./icons/sass.svg" title="sass/scss" alt="scss" width="40" height="40"/>&nbsp
+  <img src="./icons/javascript.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="./icons/typescript.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp
+  <img src="./icons/react.svg" title="react" alt="react" width="40" height="40"/>&nbsp
+  <img src="./icons/redux.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp
+  <img src="./icons/next.svg" title="next" alt="next" width="40" height="40"/>&nbsp
+  <img src="./icons/vue.svg" title="vue" alt="vue" width="40" height="40"/>&nbsp
+  <img src="./icons/vuex.svg" title="vuex" alt="vuex" width="40" height="40"/>&nbsp
+  <img src="./icons/nuxt.svg" title="nuxt" alt="nuxt" width="40" height="40"/>&nbsp
+  <img src="./icons/jquery.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp
+  <img src="./icons/material.svg" title="material ui" alt="material ui" width="40" height="40"/>&nbsp
+  <img src="./icons/vuetify.svg" title="vuetify" alt="vuetify" width="40" height="40"/>&nbsp
+  <img src="./icons/bootstrap.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp
+  <img src="./icons/git.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="./icons/storybook.svg" title="storybook" alt="storybook" width="40" height="40"/>&nbsp
+  <img src="./icons/webpack.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp
+  <img src="./icons/vite.svg" title="vite" alt="vite" width="40" height="40"/>&nbsp
+  <img src="./icons/gulp.svg" title="gulp" alt="gulp" width="40" height="40"/>&nbsp
+</div>
 ### :building_construction: CODEWARS
 ![codewars](https://www.codewars.com/users/OleksiiRiznychenko/badges/large)
 ### :chart_with_upwards_trend: GITHUB STATISTICS
