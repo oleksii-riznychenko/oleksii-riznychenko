@@ -23,10 +23,8 @@ Experienced professional with a genuine passion for software/web development. I 
   <img src="./icons/bootstrap.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp
   <img src="./icons/git.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="./icons/storybook.svg" title="storybook" alt="storybook" width="40" height="40"/>&nbsp
-  <img src="./icons/webpack.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp
-  <img src="./icons/vite.svg" title="vite" alt="vite" width="40" height="40"/>&nbsp
-  <img src="./icons/gulp.svg" title="gulp" alt="gulp" width="40" height="40"/>&nbsp
 </div>
+
 ### :building_construction: CODEWARS
 ![codewars](https://www.codewars.com/users/OleksiiRiznychenko/badges/large)
 ### :chart_with_upwards_trend: GITHUB STATISTICS
