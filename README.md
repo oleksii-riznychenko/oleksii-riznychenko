@@ -28,7 +28,13 @@ Experienced professional with a genuine passion for software/web development. I 
 ### :building_construction: CODEWARS
 ![codewars](https://www.codewars.com/users/OleksiiRiznychenko/badges/large)
 ### :chart_with_upwards_trend: GITHUB STATISTICS
-<div>
-     <img src="http://github-readme-streak-stats.herokuapp.com?user=oleksii-riznychenko&theme=dark&background=000000" alt="Oleksii Riznychenko Github stats" align="left" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oleksii-riznychenko&layout=compact&theme=vision-friendly-dark" height="196px" align="center" alt="Oleksii Riznychenko Github Languages" />
-</div>
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=oleksii-riznychenko&theme=dark&background=000000" alt="Oleksii Riznychenko Github stats" align="left" />
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oleksii-riznychenko&layout=compact&theme=vision-friendly-dark" height="196px" align="center" alt="Oleksii Riznychenko Github Languages" />
+    </td>
+  </tr>
+</table>
